@@ -1,0 +1,26 @@
+{
+  "name":"com.jameslafritz.coreframework",
+  "version": "1.0.0",
+  "displayName": "Core Frame Work",
+  "description": "Scritable Object Variables and Custom Attributes.\n\n![](https://ktmarine1999.medium.com/script-communication-in-unity-using-scriptable-objects-ad2ef0d99c59)\n\n![](https://ktmarine1999.medium.com/making-the-inspector-look-better-175baf39ada0)",
+  "unity": "2020.2",
+  "author": {
+    "name": "James LaFritz",
+    "url": "https://jameslafritz.com/"
+  },
+  "dependencies": {
+    "com.unity.mathematics": "1.2.1",
+    "com.unity.cinemachine": "2.6.4",
+    "com.unity.postprocessing": "3.0.3",
+    "com.unity.ide.rider": "2.0.7",
+    "com.unity.ugui": "1.0.0",
+    "com.unity.modules.ui": "1.0.0",
+    "com.unity.modules.uielements": "1.0.0"
+  },
+  "keywords": [
+    "ScritableObject",
+    "Variable",
+    "Attribute",
+    "Inspector"
+  ]
+}

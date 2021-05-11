@@ -1,0 +1,16 @@
+{
+    "name": "JamesLafritz.CoreFramework.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1e2a89c8a1fc44a4da91f56846212e96"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
