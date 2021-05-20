@@ -2,7 +2,9 @@
     "name": "JamesLafritz.CoreFramework.Editor",
     "rootNamespace": "",
     "references": [
-        "GUID:1e2a89c8a1fc44a4da91f56846212e96"
+        "GUID:1e2a89c8a1fc44a4da91f56846212e96",
+        "GUID:329b4ccd385744985bf3f83cfd77dfe7",
+        "GUID:343deaaf83e0cee4ca978e7df0b80d21"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
