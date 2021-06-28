@@ -75,17 +75,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Product Name Screen Shot](Images/ScreenShot.png)
-
-* In Unity open the package manager
-  *  Go to Window->PackageManager
-![OpenPackageManager](Images/OpenPackageManager.gif)
-* Install this Package from git url
-  * Click the Plus Drop down
-  * Select "add package from git URL" 
-     * https://github.com/JamesLaFritz/CoreFrameWork.git
-     * Select add
-![InstallPackage](Images/InstallPackage.gif)
+![Project Screen Shot](Images/ScreenShot.png)
 
 
 ### Scriptable Object Variables and Game Events
@@ -106,6 +96,16 @@
 <!-- Installation -->
 ### Installation
 [Creating and Using Custom Packages](https://blog.devgenius.io/creating-custom-packages-for-use-in-unity-7dfbaa49e4b4)
+
+* In Unity open the package manager
+  *  Go to Window->PackageManager
+  * ![OpenPackageManager](Images/OpenPackageManager.gif)
+* Install this Package from git url
+  * Click the Plus Drop down
+  * Select "add package from git URL" 
+     * https://github.com/JamesLaFritz/CoreFrameWork.git
+     * Select add
+  * ![InstallPackage](Images/InstallPackage.gif)
 
 <!-- ROADMAP -->
 ## Roadmap
