@@ -52,7 +52,13 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-	  <ul>
+      <ul>
+        <li><a href="#scriptable-object-variables-and-game-events">Scriptable Object Variables and Game Events</a></li>
+      </ul>
+      <ul>
+        <li><a href="#custom-attributes">Custom Attributes</a></li>
+      </ul>
+      <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
       <ul>
@@ -71,26 +77,6 @@
 
 ![Product Name Screen Shot](Images/ScreenShot.png)
 
-Scriptable Object Variables and Game Events
--------------------------------------------------------------------------------
-[Using ScriptableObject Variables](https://blog.devgenius.io/script-communication-in-unity-using-scriptable-objects-ad2ef0d99c59)
-[ScriptableObject Game Events](https://blog.devgenius.io/scriptableobject-game-events-1f3401bbde72)
-
-
-Custom Attributes
--------------------------------------------------------------------------------
-[Making the Inspector Look Better](https://blog.devgenius.io/making-the-inspector-look-better-175baf39ada0)
-
-
-### Built With
-
-* <a href="https://www.linkedin.com/in/james-lafritz/"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/></a>
-
-
-<!-- Installation -->
-### Installation
-[Creating and Using Custom Packages](https://blog.devgenius.io/creating-custom-packages-for-use-in-unity-7dfbaa49e4b4)
-
 * In Unity open the package manager
   *  Go to Window->PackageManager
 ![OpenPackageManager](Images/OpenPackageManager.gif)
@@ -101,6 +87,25 @@ Custom Attributes
      * Select add
 ![InstallPackage](Images/InstallPackage.gif)
 
+
+### Scriptable Object Variables and Game Events
+-------------------------------------------------------------------------------
+[Using ScriptableObject Variables](https://blog.devgenius.io/script-communication-in-unity-using-scriptable-objects-ad2ef0d99c59)
+[ScriptableObject Game Events](https://blog.devgenius.io/scriptableobject-game-events-1f3401bbde72)
+
+
+### Custom Attributes
+-------------------------------------------------------------------------------
+[Making the Inspector Look Better](https://blog.devgenius.io/making-the-inspector-look-better-175baf39ada0)
+
+### Built With
+
+* <a href="https://www.linkedin.com/in/james-lafritz/"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/></a>
+
+
+<!-- Installation -->
+### Installation
+[Creating and Using Custom Packages](https://blog.devgenius.io/creating-custom-packages-for-use-in-unity-7dfbaa49e4b4)
 
 <!-- ROADMAP -->
 ## Roadmap
