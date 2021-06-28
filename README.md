@@ -40,7 +40,7 @@
 	  <img src="https://img.shields.io/badge/Articles-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
   <a href="https://ktmarine1999.itch.io/">
-	  <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch-dot-io&logoColor=white"/>
+	  <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=Itch.io&logoColor=white"/>
   </a>
 </p>
 
