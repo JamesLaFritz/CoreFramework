@@ -42,7 +42,7 @@ public class InfoBoxDecoratorDrawer : DecoratorDrawer
     {
         MessageType messageType = infoBoxType switch
         {
-            InfoBoxType.Normal => MessageType.Info,
+            InfoBoxType.Info => MessageType.Info,
             InfoBoxType.Warning => MessageType.Warning,
             InfoBoxType.Error => MessageType.Error,
             _ => MessageType.None
