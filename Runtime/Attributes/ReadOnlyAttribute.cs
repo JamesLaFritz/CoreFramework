@@ -1,1 +1,1 @@
-  public class ReadOnlyAttribute : UnityEngine.PropertyAttribute { }
+public class ReadOnlyAttribute : UnityEngine.PropertyAttribute { }
