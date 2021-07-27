@@ -1,6 +1,6 @@
 {
   "name":"com.jameslafritz.coreframework",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "displayName": "Core Frame Work",
   "description": "Scriptable Object Variables\n-------------------------------------------------------------------------------\n[About](https://ktmarine1999.medium.com/script-communication-in-unity-using-scriptable-objects-ad2ef0d99c59)\n\nBased on Ryan Hipple's Game Architecture with Scriptable Objects from Unite Austin 2017 \n[@roboryantron](https://twitter.com/roboryantron)\n\n[Sample project for Game Architecture with Scriptable Objects from Unite Austin 2017](https://github.com/roboryantron/Unite2017)\n\n* [The video for the talk is posted on Unity's YouTube page.](https://www.youtube.com/watch?v=raQ3iHhE_Kk)\n* [Here is a blog post He did about the talk](http://www.roboryantron.com/2017/10/unite-2017-game-architecture-with.html)\n* [The slides are on slideshare.](https://www.slideshare.net/RyanHipple/game-architecture-with-scriptable-objects)\n\n\n\nCustom Attributes\n-------------------------------------------------------------------------------\n[About](https://ktmarine1999.medium.com/making-the-inspector-look-better-175baf39ada0)",
   "unity": "2020.2",
