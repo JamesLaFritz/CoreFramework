@@ -1,3 +1,5 @@
+This Project is now obsolete please use https://github.com/JamesLaFritz/CoreFramework2022
+
 <!-- PROJECT SHIELDS -->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
